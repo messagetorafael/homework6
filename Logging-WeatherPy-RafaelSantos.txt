@@ -1,0 +1,1313 @@
+Processing Record 1 of set 1: | punta arenas, CL
+JSON Call 1/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=punta arenas
+Processing Record 2 of set 1: | bela, PK
+JSON Call 2/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bela
+Processing Record 3 of set 1: | champerico, MX
+JSON Call 3/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=champerico
+Processing Record 4 of set 1: | mwingi, KE
+JSON Call 4/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mwingi
+Processing Record 5 of set 1: | tabou, CI
+JSON Call 5/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tabou
+Processing Record 6 of set 1: | aykhal, RU
+JSON Call 6/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=aykhal
+Processing Record 7 of set 1: | georgetown, GY
+JSON Call 7/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=georgetown
+Processing Record 8 of set 1: | arlit, NE
+JSON Call 8/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=arlit
+Error: City "grand river south east" not found
+Processing Record 9 of set 1: | grand river south east, NE
+JSON Call 9/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=grand river south east
+Processing Record 10 of set 1: | luderitz, NA
+JSON Call 10/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=luderitz
+Error: City "manzil tamim" not found
+Processing Record 11 of set 1: | manzil tamim, NA
+JSON Call 11/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=manzil tamim
+Error: City "taolanaro" not found
+Processing Record 12 of set 1: | taolanaro, NA
+JSON Call 12/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=taolanaro
+Processing Record 13 of set 1: | hithadhoo, MV
+JSON Call 13/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hithadhoo
+Processing Record 14 of set 1: | kirakira, SB
+JSON Call 14/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kirakira
+Processing Record 15 of set 1: | hermanus, ZA
+JSON Call 15/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hermanus
+Processing Record 16 of set 1: | atyrau, KZ
+JSON Call 16/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=atyrau
+Processing Record 17 of set 1: | college, US
+JSON Call 17/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=college
+Processing Record 18 of set 1: | haapiti, PF
+JSON Call 18/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=haapiti
+Processing Record 19 of set 1: | albany, US
+JSON Call 19/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=albany
+Processing Record 20 of set 1: | kavieng, PG
+JSON Call 20/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kavieng
+Processing Record 21 of set 1: | namatanai, PG
+JSON Call 21/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=namatanai
+Processing Record 22 of set 1: | muros, ES
+JSON Call 22/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=muros
+Processing Record 23 of set 1: | codrington, AU
+JSON Call 23/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=codrington
+Processing Record 24 of set 1: | corn island, NI
+JSON Call 24/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=corn island
+Processing Record 25 of set 1: | tura, IN
+JSON Call 25/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tura
+Processing Record 26 of set 1: | new norfolk, AU
+JSON Call 26/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=new norfolk
+Error: City "barentsburg" not found
+Processing Record 27 of set 1: | barentsburg, AU
+JSON Call 27/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=barentsburg
+Processing Record 28 of set 1: | dalvik, SE
+JSON Call 28/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dalvik
+Processing Record 29 of set 1: | provideniya, RU
+JSON Call 29/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=provideniya
+Processing Record 30 of set 1: | cape town, ZA
+JSON Call 30/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cape town
+Processing Record 31 of set 1: | ribeira grande, PT
+JSON Call 31/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ribeira grande
+Processing Record 32 of set 1: | bluff, AU
+JSON Call 32/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bluff
+Processing Record 33 of set 1: | port lincoln, AU
+JSON Call 33/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port lincoln
+Error: City "vaitupu" not found
+Processing Record 34 of set 1: | vaitupu, AU
+JSON Call 34/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vaitupu
+Processing Record 35 of set 1: | shimoda, JP
+JSON Call 35/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=shimoda
+Processing Record 36 of set 1: | kabalo, CD
+JSON Call 36/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kabalo
+Processing Record 37 of set 1: | mirante do paranapanema, BR
+JSON Call 37/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mirante do paranapanema
+Processing Record 38 of set 1: | sovetskiy, RU
+JSON Call 38/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sovetskiy
+Processing Record 39 of set 1: | mataura, NZ
+JSON Call 39/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mataura
+Processing Record 40 of set 1: | hobart, AU
+JSON Call 40/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hobart
+Processing Record 41 of set 1: | port hedland, AU
+JSON Call 41/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port hedland
+Processing Record 42 of set 1: | lovington, US
+JSON Call 42/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lovington
+Processing Record 43 of set 1: | arys, KZ
+JSON Call 43/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=arys
+Processing Record 44 of set 1: | yellowknife, CA
+JSON Call 44/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yellowknife
+Processing Record 45 of set 1: | fortuna, ES
+JSON Call 45/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=fortuna
+Processing Record 46 of set 1: | ushuaia, AR
+JSON Call 46/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ushuaia
+Processing Record 47 of set 1: | cayenne, GF
+JSON Call 47/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cayenne
+Processing Record 48 of set 1: | san andres, PH
+JSON Call 48/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=san andres
+Processing Record 49 of set 1: | mar del plata, AR
+JSON Call 49/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mar del plata
+Processing Record 50 of set 1: | crossville, US
+JSON Call 50/1 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=crossville
+Processing Record 0 of set 2: | jamestown, AU
+JSON Call 0/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=jamestown
+Processing Record 1 of set 2: | thompson, CA
+JSON Call 1/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=thompson
+Processing Record 2 of set 2: | busselton, AU
+JSON Call 2/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=busselton
+Processing Record 3 of set 2: | maumere, ID
+JSON Call 3/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=maumere
+Error: City "saleaula" not found
+Processing Record 4 of set 2: | saleaula, ID
+JSON Call 4/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saleaula
+Processing Record 5 of set 2: | torbay, CA
+JSON Call 5/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=torbay
+Processing Record 6 of set 2: | noumea, NC
+JSON Call 6/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=noumea
+Processing Record 7 of set 2: | khatanga, RU
+JSON Call 7/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=khatanga
+Processing Record 8 of set 2: | sitka, US
+JSON Call 8/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sitka
+Processing Record 9 of set 2: | puerto ayora, EC
+JSON Call 9/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=puerto ayora
+Error: City "dzhusaly" not found
+Processing Record 10 of set 2: | dzhusaly, EC
+JSON Call 10/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dzhusaly
+Error: City "ruatoria" not found
+Processing Record 11 of set 2: | ruatoria, EC
+JSON Call 11/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ruatoria
+Processing Record 12 of set 2: | kodiak, US
+JSON Call 12/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kodiak
+Processing Record 13 of set 2: | tuktoyaktuk, CA
+JSON Call 13/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tuktoyaktuk
+Processing Record 14 of set 2: | nikolsk, RU
+JSON Call 14/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nikolsk
+Processing Record 15 of set 2: | victoria, BN
+JSON Call 15/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=victoria
+Processing Record 16 of set 2: | agadez, NE
+JSON Call 16/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=agadez
+Processing Record 17 of set 2: | east london, ZA
+JSON Call 17/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=east london
+Processing Record 18 of set 2: | chokurdakh, RU
+JSON Call 18/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=chokurdakh
+Error: City "sumbawa" not found
+Processing Record 19 of set 2: | sumbawa, RU
+JSON Call 19/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sumbawa
+Processing Record 20 of set 2: | viedma, AR
+JSON Call 20/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=viedma
+Processing Record 21 of set 2: | piraquara, BR
+JSON Call 21/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=piraquara
+Processing Record 22 of set 2: | manoel urbano, BR
+JSON Call 22/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=manoel urbano
+Processing Record 23 of set 2: | rikitea, PF
+JSON Call 23/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rikitea
+Processing Record 24 of set 2: | roebourne, AU
+JSON Call 24/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=roebourne
+Processing Record 25 of set 2: | bredasdorp, ZA
+JSON Call 25/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bredasdorp
+Error: City "stoyba" not found
+Processing Record 26 of set 2: | stoyba, ZA
+JSON Call 26/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=stoyba
+Error: City "illoqqortoormiut" not found
+Processing Record 27 of set 2: | illoqqortoormiut, ZA
+JSON Call 27/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=illoqqortoormiut
+Processing Record 28 of set 2: | nikolskoye, RU
+JSON Call 28/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nikolskoye
+Error: City "stornoway" not found
+Processing Record 29 of set 2: | stornoway, RU
+JSON Call 29/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=stornoway
+Processing Record 30 of set 2: | saldanha, PT
+JSON Call 30/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saldanha
+Processing Record 31 of set 2: | qaanaaq, GL
+JSON Call 31/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=qaanaaq
+Processing Record 32 of set 2: | innisfail, CA
+JSON Call 32/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=innisfail
+Processing Record 33 of set 2: | kapaa, US
+JSON Call 33/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kapaa
+Processing Record 34 of set 2: | brownsville, US
+JSON Call 34/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=brownsville
+Processing Record 35 of set 2: | katobu, ID
+JSON Call 35/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=katobu
+Processing Record 36 of set 2: | jennings, AU
+JSON Call 36/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=jennings
+Processing Record 37 of set 2: | riyadh, SA
+JSON Call 37/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=riyadh
+Processing Record 38 of set 2: | tasiilaq, GL
+JSON Call 38/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tasiilaq
+Processing Record 39 of set 2: | arraial do cabo, BR
+JSON Call 39/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=arraial do cabo
+Processing Record 40 of set 2: | castro, CL
+JSON Call 40/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=castro
+Processing Record 41 of set 2: | lebu, ET
+JSON Call 41/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lebu
+Processing Record 42 of set 2: | atuona, PF
+JSON Call 42/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=atuona
+Processing Record 43 of set 2: | kamenka, RU
+JSON Call 43/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kamenka
+Processing Record 44 of set 2: | kahului, US
+JSON Call 44/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kahului
+Processing Record 45 of set 2: | vaini, IN
+JSON Call 45/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vaini
+Processing Record 46 of set 2: | kovdor, RU
+JSON Call 46/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kovdor
+Processing Record 47 of set 2: | henties bay, NA
+JSON Call 47/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=henties bay
+Processing Record 48 of set 2: | craig, US
+JSON Call 48/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=craig
+Processing Record 49 of set 2: | raudeberg, NO
+JSON Call 49/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=raudeberg
+Processing Record 50 of set 2: | kaeo, NZ
+JSON Call 50/2 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kaeo
+Processing Record 0 of set 3: | alyangula, AU
+JSON Call 0/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alyangula
+Processing Record 1 of set 3: | seoul, KR
+JSON Call 1/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=seoul
+Processing Record 2 of set 3: | estacion coahuila, MX
+JSON Call 2/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=estacion coahuila
+Error: City "karaul" not found
+Processing Record 3 of set 3: | karaul, MX
+JSON Call 3/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=karaul
+Processing Record 4 of set 3: | bani walid, LY
+JSON Call 4/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bani walid
+Processing Record 5 of set 3: | moshi, TZ
+JSON Call 5/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=moshi
+Processing Record 6 of set 3: | carutapera, BR
+JSON Call 6/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=carutapera
+Processing Record 7 of set 3: | alenquer, BR
+JSON Call 7/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alenquer
+Processing Record 8 of set 3: | dikson, RU
+JSON Call 8/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dikson
+Processing Record 9 of set 3: | avera, US
+JSON Call 9/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=avera
+Processing Record 10 of set 3: | mouila, GA
+JSON Call 10/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mouila
+Processing Record 11 of set 3: | lucapa, AO
+JSON Call 11/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lucapa
+Processing Record 12 of set 3: | hilo, US
+JSON Call 12/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hilo
+Processing Record 13 of set 3: | teguldet, RU
+JSON Call 13/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=teguldet
+Processing Record 14 of set 3: | duluth, US
+JSON Call 14/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=duluth
+Processing Record 15 of set 3: | hambantota, LK
+JSON Call 15/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hambantota
+Processing Record 16 of set 3: | chulym, RU
+JSON Call 16/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=chulym
+Processing Record 17 of set 3: | saint-philippe, CA
+JSON Call 17/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saint-philippe
+Processing Record 18 of set 3: | salalah, OM
+JSON Call 18/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=salalah
+Processing Record 19 of set 3: | longyearbyen, NO
+JSON Call 19/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=longyearbyen
+Processing Record 20 of set 3: | norman wells, CA
+JSON Call 20/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=norman wells
+Processing Record 21 of set 3: | vila do maio, CV
+JSON Call 21/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vila do maio
+Processing Record 22 of set 3: | sosnovo-ozerskoye, RU
+JSON Call 22/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sosnovo-ozerskoye
+Processing Record 23 of set 3: | laguna, MX
+JSON Call 23/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=laguna
+Processing Record 24 of set 3: | upernavik, GL
+JSON Call 24/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=upernavik
+Processing Record 25 of set 3: | inirida, CO
+JSON Call 25/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=inirida
+Processing Record 26 of set 3: | bandarbeyla, SO
+JSON Call 26/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bandarbeyla
+Error: City "attawapiskat" not found
+Processing Record 27 of set 3: | attawapiskat, SO
+JSON Call 27/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=attawapiskat
+Processing Record 28 of set 3: | lithgow, AU
+JSON Call 28/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lithgow
+Processing Record 29 of set 3: | mahebourg, MU
+JSON Call 29/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mahebourg
+Processing Record 30 of set 3: | alofi, NU
+JSON Call 30/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alofi
+Processing Record 31 of set 3: | nouadhibou, MR
+JSON Call 31/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nouadhibou
+Error: City "sentyabrskiy" not found
+Processing Record 32 of set 3: | sentyabrskiy, MR
+JSON Call 32/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sentyabrskiy
+Processing Record 33 of set 3: | belaya gora, RU
+JSON Call 33/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=belaya gora
+Processing Record 34 of set 3: | butaritari, KI
+JSON Call 34/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=butaritari
+Processing Record 35 of set 3: | altayskoye, RU
+JSON Call 35/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=altayskoye
+Processing Record 36 of set 3: | russell, AR
+JSON Call 36/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=russell
+Processing Record 37 of set 3: | hasaki, JP
+JSON Call 37/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hasaki
+Processing Record 38 of set 3: | umba, RU
+JSON Call 38/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=umba
+Processing Record 39 of set 3: | airai, TL
+JSON Call 39/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=airai
+Processing Record 40 of set 3: | awbari, LY
+JSON Call 40/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=awbari
+Processing Record 41 of set 3: | powell, US
+JSON Call 41/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=powell
+Processing Record 42 of set 3: | aklavik, CA
+JSON Call 42/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=aklavik
+Processing Record 43 of set 3: | starobaltachevo, RU
+JSON Call 43/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=starobaltachevo
+Processing Record 44 of set 3: | tocopilla, CL
+JSON Call 44/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tocopilla
+Processing Record 45 of set 3: | avarua, CK
+JSON Call 45/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=avarua
+Error: City "akyab" not found
+Processing Record 46 of set 3: | akyab, CK
+JSON Call 46/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=akyab
+Processing Record 47 of set 3: | amethi, IN
+JSON Call 47/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=amethi
+Processing Record 48 of set 3: | doha, QA
+JSON Call 48/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=doha
+Processing Record 49 of set 3: | harlingen, US
+JSON Call 49/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=harlingen
+Processing Record 50 of set 3: | pisco, PE
+JSON Call 50/3 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pisco
+Processing Record 0 of set 4: | tuatapere, NZ
+JSON Call 0/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tuatapere
+Processing Record 1 of set 4: | nome, US
+JSON Call 1/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nome
+Processing Record 2 of set 4: | saskylakh, RU
+JSON Call 2/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saskylakh
+Processing Record 3 of set 4: | saint george, GR
+JSON Call 3/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saint george
+Processing Record 4 of set 4: | severo-kurilsk, RU
+JSON Call 4/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=severo-kurilsk
+Error: City "amderma" not found
+Processing Record 5 of set 4: | amderma, RU
+JSON Call 5/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=amderma
+Processing Record 6 of set 4: | rampura, IN
+JSON Call 6/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rampura
+Processing Record 7 of set 4: | geraldton, CA
+JSON Call 7/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=geraldton
+Processing Record 8 of set 4: | hofn, IS
+JSON Call 8/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hofn
+Processing Record 9 of set 4: | margate, AU
+JSON Call 9/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=margate
+Processing Record 10 of set 4: | williams lake, CA
+JSON Call 10/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=williams lake
+Processing Record 11 of set 4: | ancud, CL
+JSON Call 11/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ancud
+Processing Record 12 of set 4: | santa rosa de viterbo, BR
+JSON Call 12/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=santa rosa de viterbo
+Processing Record 13 of set 4: | adrar, DZ
+JSON Call 13/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=adrar
+Processing Record 14 of set 4: | fort nelson, CA
+JSON Call 14/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=fort nelson
+Processing Record 15 of set 4: | iqaluit, CA
+JSON Call 15/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=iqaluit
+Processing Record 16 of set 4: | ilulissat, GL
+JSON Call 16/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ilulissat
+Processing Record 17 of set 4: | leningradskiy, RU
+JSON Call 17/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=leningradskiy
+Processing Record 18 of set 4: | cabo san lucas, MX
+JSON Call 18/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cabo san lucas
+Processing Record 19 of set 4: | tshikapa, CD
+JSON Call 19/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tshikapa
+Processing Record 20 of set 4: | grand gaube, MU
+JSON Call 20/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=grand gaube
+Processing Record 21 of set 4: | kroya, ID
+JSON Call 21/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kroya
+Processing Record 22 of set 4: | kaitangata, NZ
+JSON Call 22/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kaitangata
+Processing Record 23 of set 4: | cidreira, BR
+JSON Call 23/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cidreira
+Error: City "temaraia" not found
+Processing Record 24 of set 4: | temaraia, BR
+JSON Call 24/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=temaraia
+Error: City "olafsvik" not found
+Processing Record 25 of set 4: | olafsvik, BR
+JSON Call 25/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=olafsvik
+Processing Record 26 of set 4: | rorvik, NO
+JSON Call 26/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rorvik
+Processing Record 27 of set 4: | imeni poliny osipenko, RU
+JSON Call 27/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=imeni poliny osipenko
+Processing Record 28 of set 4: | mankera, NG
+JSON Call 28/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mankera
+Processing Record 29 of set 4: | ust-kulom, RU
+JSON Call 29/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ust-kulom
+Processing Record 30 of set 4: | adamovka, RU
+JSON Call 30/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=adamovka
+Processing Record 31 of set 4: | senador guiomard, BR
+JSON Call 31/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=senador guiomard
+Processing Record 32 of set 4: | samarai, PG
+JSON Call 32/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=samarai
+Processing Record 33 of set 4: | kabo, CF
+JSON Call 33/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kabo
+Processing Record 34 of set 4: | kupang, ID
+JSON Call 34/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kupang
+Processing Record 35 of set 4: | coquimbo, CL
+JSON Call 35/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=coquimbo
+Processing Record 36 of set 4: | novobiryusinskiy, RU
+JSON Call 36/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=novobiryusinskiy
+Error: City "bengkulu" not found
+Processing Record 37 of set 4: | bengkulu, RU
+JSON Call 37/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bengkulu
+Processing Record 38 of set 4: | illapel, CL
+JSON Call 38/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=illapel
+Processing Record 39 of set 4: | meulaboh, ID
+JSON Call 39/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=meulaboh
+Processing Record 40 of set 4: | ostersund, SE
+JSON Call 40/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ostersund
+Error: City "sakakah" not found
+Processing Record 41 of set 4: | sakakah, SE
+JSON Call 41/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sakakah
+Error: City "kadykchan" not found
+Processing Record 42 of set 4: | kadykchan, SE
+JSON Call 42/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kadykchan
+Processing Record 43 of set 4: | port alfred, ZA
+JSON Call 43/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port alfred
+Processing Record 44 of set 4: | hobyo, SO
+JSON Call 44/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hobyo
+Processing Record 45 of set 4: | newport, GB
+JSON Call 45/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=newport
+Processing Record 46 of set 4: | flinders, AU
+JSON Call 46/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=flinders
+Processing Record 47 of set 4: | dayong, PH
+JSON Call 47/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dayong
+Processing Record 48 of set 4: | san patricio, PY
+JSON Call 48/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=san patricio
+Processing Record 49 of set 4: | praia da vitoria, PT
+JSON Call 49/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=praia da vitoria
+Processing Record 50 of set 4: | umred, IN
+JSON Call 50/4 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=umred
+Processing Record 0 of set 5: | belyy yar, RU
+JSON Call 0/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=belyy yar
+Processing Record 1 of set 5: | lompoc, US
+JSON Call 1/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lompoc
+Processing Record 2 of set 5: | manacapuru, BR
+JSON Call 2/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=manacapuru
+Error: City "wau" not found
+Processing Record 3 of set 5: | wau, BR
+JSON Call 3/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=wau
+Processing Record 4 of set 5: | antalaha, MG
+JSON Call 4/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=antalaha
+Processing Record 5 of set 5: | marienburg, DE
+JSON Call 5/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=marienburg
+Error: City "camana" not found
+Processing Record 6 of set 5: | camana, DE
+JSON Call 6/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=camana
+Processing Record 7 of set 5: | sioux lookout, CA
+JSON Call 7/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sioux lookout
+Error: City "tsihombe" not found
+Processing Record 8 of set 5: | tsihombe, CA
+JSON Call 8/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tsihombe
+Processing Record 9 of set 5: | la tuque, CA
+JSON Call 9/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=la tuque
+Processing Record 10 of set 5: | puri, ID
+JSON Call 10/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=puri
+Processing Record 11 of set 5: | mocuba, MZ
+JSON Call 11/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mocuba
+Processing Record 12 of set 5: | puerto escondido, MX
+JSON Call 12/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=puerto escondido
+Processing Record 13 of set 5: | distraccion, CO
+JSON Call 13/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=distraccion
+Processing Record 14 of set 5: | sao filipe, CV
+JSON Call 14/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sao filipe
+Processing Record 15 of set 5: | port elizabeth, US
+JSON Call 15/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port elizabeth
+Processing Record 16 of set 5: | srednekolymsk, RU
+JSON Call 16/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=srednekolymsk
+Processing Record 17 of set 5: | highland springs, US
+JSON Call 17/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=highland springs
+Processing Record 18 of set 5: | pavlodar, KZ
+JSON Call 18/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pavlodar
+Processing Record 19 of set 5: | lewistown, US
+JSON Call 19/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lewistown
+Processing Record 20 of set 5: | besancon, FR
+JSON Call 20/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=besancon
+Processing Record 21 of set 5: | ikere, NG
+JSON Call 21/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ikere
+Processing Record 22 of set 5: | poronaysk, RU
+JSON Call 22/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=poronaysk
+Processing Record 23 of set 5: | yuzhnyy, RU
+JSON Call 23/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yuzhnyy
+Processing Record 24 of set 5: | talnakh, RU
+JSON Call 24/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=talnakh
+Processing Record 25 of set 5: | fairbanks, US
+JSON Call 25/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=fairbanks
+Processing Record 26 of set 5: | saint-denis, FR
+JSON Call 26/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saint-denis
+Processing Record 27 of set 5: | beyneu, KZ
+JSON Call 27/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=beyneu
+Processing Record 28 of set 5: | san pedro, AR
+JSON Call 28/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=san pedro
+Processing Record 29 of set 5: | solhan, TR
+JSON Call 29/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=solhan
+Processing Record 30 of set 5: | oudtshoorn, ZA
+JSON Call 30/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=oudtshoorn
+Processing Record 31 of set 5: | am timan, TD
+JSON Call 31/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=am timan
+Processing Record 32 of set 5: | auki, NG
+JSON Call 32/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=auki
+Processing Record 33 of set 5: | socorro, PH
+JSON Call 33/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=socorro
+Processing Record 34 of set 5: | tutoia, BR
+JSON Call 34/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tutoia
+Error: City "skalistyy" not found
+Processing Record 35 of set 5: | skalistyy, BR
+JSON Call 35/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=skalistyy
+Processing Record 36 of set 5: | vilcun, CL
+JSON Call 36/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vilcun
+Processing Record 37 of set 5: | isangel, VU
+JSON Call 37/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=isangel
+Processing Record 38 of set 5: | barrow, AR
+JSON Call 38/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=barrow
+Processing Record 39 of set 5: | lagoa, PT
+JSON Call 39/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lagoa
+Processing Record 40 of set 5: | namibe, AO
+JSON Call 40/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=namibe
+Processing Record 41 of set 5: | guerrero negro, MX
+JSON Call 41/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=guerrero negro
+Error: City "mys shmidta" not found
+Processing Record 42 of set 5: | mys shmidta, MX
+JSON Call 42/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mys shmidta
+Processing Record 43 of set 5: | nuuk, GL
+JSON Call 43/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nuuk
+Processing Record 44 of set 5: | kaifeng, CN
+JSON Call 44/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kaifeng
+Processing Record 45 of set 5: | baker city, US
+JSON Call 45/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=baker city
+Processing Record 46 of set 5: | yongan, CN
+JSON Call 46/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yongan
+Error: City "amparai" not found
+Processing Record 47 of set 5: | amparai, CN
+JSON Call 47/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=amparai
+Processing Record 48 of set 5: | baherden, TM
+JSON Call 48/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=baherden
+Processing Record 49 of set 5: | piracanjuba, BR
+JSON Call 49/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=piracanjuba
+Processing Record 50 of set 5: | yakuplu, TR
+JSON Call 50/5 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yakuplu
+Error: City "malakal" not found
+Processing Record 0 of set 6: | malakal, TR
+JSON Call 0/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=malakal
+Processing Record 1 of set 6: | hamilton, BM
+JSON Call 1/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hamilton
+Processing Record 2 of set 6: | peniche, PT
+JSON Call 2/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=peniche
+Processing Record 3 of set 6: | mutoko, ZW
+JSON Call 3/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mutoko
+Error: City "palabuhanratu" not found
+Processing Record 4 of set 6: | palabuhanratu, ZW
+JSON Call 4/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=palabuhanratu
+Error: City "buariki" not found
+Processing Record 5 of set 6: | buariki, ZW
+JSON Call 5/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=buariki
+Processing Record 6 of set 6: | nago, IT
+JSON Call 6/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nago
+Error: City "metehara" not found
+Processing Record 7 of set 6: | metehara, IT
+JSON Call 7/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=metehara
+Error: City "kismayo" not found
+Processing Record 8 of set 6: | kismayo, IT
+JSON Call 8/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kismayo
+Processing Record 9 of set 6: | wanning, AT
+JSON Call 9/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=wanning
+Processing Record 10 of set 6: | arandis, NA
+JSON Call 10/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=arandis
+Error: City "kamenskoye" not found
+Processing Record 11 of set 6: | kamenskoye, NA
+JSON Call 11/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kamenskoye
+Processing Record 12 of set 6: | los llanos de aridane, ES
+JSON Call 12/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=los llanos de aridane
+Processing Record 13 of set 6: | kununurra, AU
+JSON Call 13/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kununurra
+Error: City "west bridgeford" not found
+Processing Record 14 of set 6: | west bridgeford, AU
+JSON Call 14/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=west bridgeford
+Processing Record 15 of set 6: | brigantine, US
+JSON Call 15/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=brigantine
+Processing Record 16 of set 6: | hirara, JP
+JSON Call 16/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hirara
+Processing Record 17 of set 6: | bambous virieux, MU
+JSON Call 17/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bambous virieux
+Processing Record 18 of set 6: | ambanja, MG
+JSON Call 18/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ambanja
+Processing Record 19 of set 6: | tarrega, ES
+JSON Call 19/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tarrega
+Processing Record 20 of set 6: | erzin, TR
+JSON Call 20/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=erzin
+Processing Record 21 of set 6: | sinnamary, GF
+JSON Call 21/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sinnamary
+Processing Record 22 of set 6: | saint-pierre, FR
+JSON Call 22/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saint-pierre
+Processing Record 23 of set 6: | nanakuli, US
+JSON Call 23/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nanakuli
+Processing Record 24 of set 6: | tecpan, GT
+JSON Call 24/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tecpan
+Processing Record 25 of set 6: | port hardy, CA
+JSON Call 25/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port hardy
+Processing Record 26 of set 6: | nuristan, UZ
+JSON Call 26/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nuristan
+Processing Record 27 of set 6: | touros, BR
+JSON Call 27/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=touros
+Processing Record 28 of set 6: | chabahar, IR
+JSON Call 28/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=chabahar
+Processing Record 29 of set 6: | vao, EE
+JSON Call 29/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vao
+Processing Record 30 of set 6: | dingle, PH
+JSON Call 30/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dingle
+Processing Record 31 of set 6: | puerto leguizamo, CO
+JSON Call 31/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=puerto leguizamo
+Processing Record 32 of set 6: | mana, RS
+JSON Call 32/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mana
+Processing Record 33 of set 6: | zhigansk, RU
+JSON Call 33/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=zhigansk
+Processing Record 34 of set 6: | chapais, CA
+JSON Call 34/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=chapais
+Processing Record 35 of set 6: | robertsport, LR
+JSON Call 35/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=robertsport
+Processing Record 36 of set 6: | kasrawad, IN
+JSON Call 36/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kasrawad
+Processing Record 37 of set 6: | tucuman, PE
+JSON Call 37/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tucuman
+Processing Record 38 of set 6: | north bend, US
+JSON Call 38/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=north bend
+Processing Record 39 of set 6: | clyde river, CA
+JSON Call 39/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=clyde river
+Error: City "hendijan" not found
+Processing Record 40 of set 6: | hendijan, CA
+JSON Call 40/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hendijan
+Processing Record 41 of set 6: | shima, JP
+JSON Call 41/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=shima
+Processing Record 42 of set 6: | banjar, ID
+JSON Call 42/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=banjar
+Processing Record 43 of set 6: | vila velha, BR
+JSON Call 43/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vila velha
+Processing Record 44 of set 6: | sampit, ID
+JSON Call 44/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sampit
+Processing Record 45 of set 6: | kisangani, CD
+JSON Call 45/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kisangani
+Processing Record 46 of set 6: | nogliki, RU
+JSON Call 46/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nogliki
+Processing Record 47 of set 6: | qobustan, AZ
+JSON Call 47/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=qobustan
+Processing Record 48 of set 6: | anda, CN
+JSON Call 48/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=anda
+Error: City "utiroa" not found
+Processing Record 49 of set 6: | utiroa, CN
+JSON Call 49/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=utiroa
+Processing Record 50 of set 6: | acapulco, MX
+JSON Call 50/6 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=acapulco
+Processing Record 0 of set 7: | batagay-alyta, RU
+JSON Call 0/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=batagay-alyta
+Processing Record 1 of set 7: | vestmannaeyjar, IS
+JSON Call 1/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vestmannaeyjar
+Processing Record 2 of set 7: | balkhash, KZ
+JSON Call 2/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=balkhash
+Processing Record 3 of set 7: | cody, US
+JSON Call 3/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cody
+Processing Record 4 of set 7: | moindou, NC
+JSON Call 4/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=moindou
+Processing Record 5 of set 7: | yulara, AU
+JSON Call 5/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yulara
+Error: City "samusu" not found
+Processing Record 6 of set 7: | samusu, AU
+JSON Call 6/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=samusu
+Processing Record 7 of set 7: | sahuaripa, MX
+JSON Call 7/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sahuaripa
+Processing Record 8 of set 7: | totness, US
+JSON Call 8/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=totness
+Processing Record 9 of set 7: | lake city, US
+JSON Call 9/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lake city
+Processing Record 10 of set 7: | umtata, ZA
+JSON Call 10/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=umtata
+Processing Record 11 of set 7: | lavrentiya, RU
+JSON Call 11/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lavrentiya
+Processing Record 12 of set 7: | ballina, IE
+JSON Call 12/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ballina
+Processing Record 13 of set 7: | gat, SN
+JSON Call 13/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=gat
+Processing Record 14 of set 7: | souillac, FR
+JSON Call 14/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=souillac
+Processing Record 15 of set 7: | beboto, TD
+JSON Call 15/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=beboto
+Processing Record 16 of set 7: | serenje, ZM
+JSON Call 16/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=serenje
+Error: City "teluk nibung" not found
+Processing Record 17 of set 7: | teluk nibung, ZM
+JSON Call 17/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=teluk nibung
+Processing Record 18 of set 7: | tepusteca, HN
+JSON Call 18/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tepusteca
+Processing Record 19 of set 7: | ise, JP
+JSON Call 19/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ise
+Processing Record 20 of set 7: | hinjilikatu, IN
+JSON Call 20/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hinjilikatu
+Processing Record 21 of set 7: | carnarvon, ZA
+JSON Call 21/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=carnarvon
+Processing Record 22 of set 7: | kirensk, RU
+JSON Call 22/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kirensk
+Processing Record 23 of set 7: | makubetsu, JP
+JSON Call 23/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=makubetsu
+Processing Record 24 of set 7: | ramanuj ganj, IN
+JSON Call 24/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ramanuj ganj
+Processing Record 25 of set 7: | kenitra, MA
+JSON Call 25/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kenitra
+Processing Record 26 of set 7: | esperance, TT
+JSON Call 26/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=esperance
+Processing Record 27 of set 7: | trairi, BR
+JSON Call 27/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=trairi
+Processing Record 28 of set 7: | saravan, AM
+JSON Call 28/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saravan
+Processing Record 29 of set 7: | krasnovishersk, RU
+JSON Call 29/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=krasnovishersk
+Processing Record 30 of set 7: | russellville, US
+JSON Call 30/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=russellville
+Processing Record 31 of set 7: | umm kaddadah, SD
+JSON Call 31/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=umm kaddadah
+Processing Record 32 of set 7: | aden, YE
+JSON Call 32/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=aden
+Processing Record 33 of set 7: | oistins, BB
+JSON Call 33/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=oistins
+Processing Record 34 of set 7: | altay, CN
+JSON Call 34/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=altay
+Processing Record 35 of set 7: | cherskiy, RU
+JSON Call 35/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cherskiy
+Error: City "anar darreh" not found
+Processing Record 36 of set 7: | anar darreh, RU
+JSON Call 36/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=anar darreh
+Processing Record 37 of set 7: | hof, DE
+JSON Call 37/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hof
+Processing Record 38 of set 7: | neyshabur, IR
+JSON Call 38/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=neyshabur
+Processing Record 39 of set 7: | port blair, IN
+JSON Call 39/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port blair
+Processing Record 40 of set 7: | faanui, PF
+JSON Call 40/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=faanui
+Processing Record 41 of set 7: | nanortalik, GL
+JSON Call 41/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nanortalik
+Processing Record 42 of set 7: | redcar, GB
+JSON Call 42/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=redcar
+Processing Record 43 of set 7: | tevriz, RU
+JSON Call 43/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tevriz
+Processing Record 44 of set 7: | rafraf, TN
+JSON Call 44/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rafraf
+Processing Record 45 of set 7: | jatai, IN
+JSON Call 45/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=jatai
+Error: City "kazalinsk" not found
+Processing Record 46 of set 7: | kazalinsk, IN
+JSON Call 46/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kazalinsk
+Processing Record 47 of set 7: | ziarat, PK
+JSON Call 47/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ziarat
+Processing Record 48 of set 7: | vega de alatorre, MX
+JSON Call 48/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vega de alatorre
+Processing Record 49 of set 7: | dombarovskiy, RU
+JSON Call 49/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dombarovskiy
+Processing Record 50 of set 7: | sheridan, US
+JSON Call 50/7 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sheridan
+Processing Record 0 of set 8: | akranes, IS
+JSON Call 0/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=akranes
+Processing Record 1 of set 8: | erenhot, CN
+JSON Call 1/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=erenhot
+Processing Record 2 of set 8: | arica, CL
+JSON Call 2/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=arica
+Processing Record 3 of set 8: | tangkak, MY
+JSON Call 3/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tangkak
+Processing Record 4 of set 8: | alcaniz, ES
+JSON Call 4/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alcaniz
+Processing Record 5 of set 8: | kruisfontein, ZA
+JSON Call 5/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kruisfontein
+Processing Record 6 of set 8: | takoradi, GH
+JSON Call 6/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=takoradi
+Processing Record 7 of set 8: | punto fijo, VE
+JSON Call 7/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=punto fijo
+Processing Record 8 of set 8: | dalaba, GN
+JSON Call 8/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dalaba
+Processing Record 9 of set 8: | okhotsk, RU
+JSON Call 9/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=okhotsk
+Processing Record 10 of set 8: | neiafu, TO
+JSON Call 10/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=neiafu
+Processing Record 11 of set 8: | bonavista, CA
+JSON Call 11/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bonavista
+Processing Record 12 of set 8: | tokur, RU
+JSON Call 12/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tokur
+Processing Record 13 of set 8: | kviteseid, NO
+JSON Call 13/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kviteseid
+Processing Record 14 of set 8: | khadyzhensk, RU
+JSON Call 14/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=khadyzhensk
+Processing Record 15 of set 8: | victor harbor, AU
+JSON Call 15/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=victor harbor
+Processing Record 16 of set 8: | faya, SA
+JSON Call 16/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=faya
+Error: City "solovetskiy" not found
+Processing Record 17 of set 8: | solovetskiy, SA
+JSON Call 17/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=solovetskiy
+Processing Record 18 of set 8: | arroio grande, BR
+JSON Call 18/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=arroio grande
+Processing Record 19 of set 8: | ugoofaaru, MV
+JSON Call 19/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ugoofaaru
+Processing Record 20 of set 8: | bethel, US
+JSON Call 20/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bethel
+Processing Record 21 of set 8: | ostrovnoy, RU
+JSON Call 21/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ostrovnoy
+Processing Record 22 of set 8: | ekhabi, RU
+JSON Call 22/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ekhabi
+Processing Record 23 of set 8: | sevlievo, BG
+JSON Call 23/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sevlievo
+Processing Record 24 of set 8: | ponta do sol, BR
+JSON Call 24/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ponta do sol
+Processing Record 25 of set 8: | narsaq, GL
+JSON Call 25/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=narsaq
+Processing Record 26 of set 8: | corrente, BR
+JSON Call 26/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=corrente
+Processing Record 27 of set 8: | erdaojiang, CN
+JSON Call 27/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=erdaojiang
+Processing Record 28 of set 8: | ramgarh, IN
+JSON Call 28/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ramgarh
+Processing Record 29 of set 8: | mitchell, US
+JSON Call 29/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mitchell
+Processing Record 30 of set 8: | yongchang, CN
+JSON Call 30/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yongchang
+Processing Record 31 of set 8: | xunchang, CN
+JSON Call 31/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=xunchang
+Processing Record 32 of set 8: | formosa, AR
+JSON Call 32/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=formosa
+Processing Record 33 of set 8: | kikwit, CD
+JSON Call 33/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kikwit
+Processing Record 34 of set 8: | ta khmau, KH
+JSON Call 34/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ta khmau
+Processing Record 35 of set 8: | faranah, GN
+JSON Call 35/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=faranah
+Processing Record 36 of set 8: | sorong, ID
+JSON Call 36/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sorong
+Processing Record 37 of set 8: | sola, FI
+JSON Call 37/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sola
+Processing Record 38 of set 8: | nioro, GM
+JSON Call 38/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nioro
+Processing Record 39 of set 8: | cristalina, BR
+JSON Call 39/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cristalina
+Processing Record 40 of set 8: | ulladulla, AU
+JSON Call 40/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ulladulla
+Processing Record 41 of set 8: | koupela, BF
+JSON Call 41/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=koupela
+Error: City "lemesos" not found
+Processing Record 42 of set 8: | lemesos, BF
+JSON Call 42/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lemesos
+Processing Record 43 of set 8: | nikel, NO
+JSON Call 43/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nikel
+Processing Record 44 of set 8: | anloga, GH
+JSON Call 44/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=anloga
+Processing Record 45 of set 8: | katsuura, JP
+JSON Call 45/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=katsuura
+Processing Record 46 of set 8: | mattru, SL
+JSON Call 46/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mattru
+Error: City "nizhneyansk" not found
+Processing Record 47 of set 8: | nizhneyansk, SL
+JSON Call 47/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nizhneyansk
+Processing Record 48 of set 8: | lubao, PH
+JSON Call 48/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lubao
+Processing Record 49 of set 8: | haimen, CN
+JSON Call 49/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=haimen
+Processing Record 50 of set 8: | tokmak, UA
+JSON Call 50/8 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tokmak
+Processing Record 0 of set 9: | bom jardim, BR
+JSON Call 0/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bom jardim
+Processing Record 1 of set 9: | padang, ID
+JSON Call 1/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=padang
+Processing Record 2 of set 9: | port-de-bouc, FR
+JSON Call 2/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port-de-bouc
+Error: City "artyk" not found
+Processing Record 3 of set 9: | artyk, FR
+JSON Call 3/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=artyk
+Processing Record 4 of set 9: | northam, GB
+JSON Call 4/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=northam
+Processing Record 5 of set 9: | lorengau, PG
+JSON Call 5/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lorengau
+Processing Record 6 of set 9: | bilibino, RU
+JSON Call 6/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bilibino
+Processing Record 7 of set 9: | nantucket, US
+JSON Call 7/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nantucket
+Processing Record 8 of set 9: | khed brahma, IN
+JSON Call 8/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=khed brahma
+Processing Record 9 of set 9: | saint-augustin, FR
+JSON Call 9/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saint-augustin
+Processing Record 10 of set 9: | madimba, CM
+JSON Call 10/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=madimba
+Processing Record 11 of set 9: | priladozhskiy, RU
+JSON Call 11/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=priladozhskiy
+Error: City "belushya guba" not found
+Processing Record 12 of set 9: | belushya guba, RU
+JSON Call 12/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=belushya guba
+Error: City "tahta" not found
+Processing Record 13 of set 9: | tahta, RU
+JSON Call 13/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tahta
+Processing Record 14 of set 9: | bone, ID
+JSON Call 14/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bone
+Processing Record 15 of set 9: | kieta, PG
+JSON Call 15/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kieta
+Processing Record 16 of set 9: | kropotkin, RU
+JSON Call 16/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kropotkin
+Processing Record 17 of set 9: | isfana, KG
+JSON Call 17/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=isfana
+Processing Record 18 of set 9: | mount gambier, AU
+JSON Call 18/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mount gambier
+Processing Record 19 of set 9: | jarvenpaa, FI
+JSON Call 19/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=jarvenpaa
+Processing Record 20 of set 9: | kargasok, RU
+JSON Call 20/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kargasok
+Processing Record 21 of set 9: | masallatah, LY
+JSON Call 21/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=masallatah
+Error: City "tumannyy" not found
+Processing Record 22 of set 9: | tumannyy, LY
+JSON Call 22/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tumannyy
+Processing Record 23 of set 9: | atasu, KZ
+JSON Call 23/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=atasu
+Processing Record 24 of set 9: | salinas, US
+JSON Call 24/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=salinas
+Processing Record 25 of set 9: | moron, VE
+JSON Call 25/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=moron
+Processing Record 26 of set 9: | nnewi, NG
+JSON Call 26/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nnewi
+Processing Record 27 of set 9: | nishihara, JP
+JSON Call 27/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nishihara
+Processing Record 28 of set 9: | pihani, IN
+JSON Call 28/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pihani
+Processing Record 29 of set 9: | bourail, NC
+JSON Call 29/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bourail
+Processing Record 30 of set 9: | lamballe, FR
+JSON Call 30/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lamballe
+Processing Record 31 of set 9: | chuy, UY
+JSON Call 31/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=chuy
+Processing Record 32 of set 9: | seljord, NO
+JSON Call 32/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=seljord
+Error: City "macaboboni" not found
+Processing Record 33 of set 9: | macaboboni, NO
+JSON Call 33/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=macaboboni
+Processing Record 34 of set 9: | taoudenni, ML
+JSON Call 34/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=taoudenni
+Processing Record 35 of set 9: | ballyhaunis, IE
+JSON Call 35/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ballyhaunis
+Processing Record 36 of set 9: | villa rica, PE
+JSON Call 36/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=villa rica
+Processing Record 37 of set 9: | gondar, PT
+JSON Call 37/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=gondar
+Processing Record 38 of set 9: | ciudad bolivar, VE
+JSON Call 38/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ciudad bolivar
+Processing Record 39 of set 9: | alice springs, AU
+JSON Call 39/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alice springs
+Processing Record 40 of set 9: | burns lake, CA
+JSON Call 40/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=burns lake
+Processing Record 41 of set 9: | port moresby, PG
+JSON Call 41/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port moresby
+Processing Record 42 of set 9: | san cristobal, EC
+JSON Call 42/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=san cristobal
+Processing Record 43 of set 9: | yokadouma, CM
+JSON Call 43/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yokadouma
+Processing Record 44 of set 9: | messina, IT
+JSON Call 44/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=messina
+Processing Record 45 of set 9: | izhma, RU
+JSON Call 45/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=izhma
+Error: City "villazon" not found
+Processing Record 46 of set 9: | villazon, RU
+JSON Call 46/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=villazon
+Processing Record 47 of set 9: | ketchikan, US
+JSON Call 47/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ketchikan
+Processing Record 48 of set 9: | loreto, PY
+JSON Call 48/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=loreto
+Processing Record 49 of set 9: | abdulino, RU
+JSON Call 49/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=abdulino
+Processing Record 50 of set 9: | harper, US
+JSON Call 50/9 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=harper
+Processing Record 0 of set 10: | kasane, BW
+JSON Call 0/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kasane
+Processing Record 1 of set 10: | alekseyevka, RU
+JSON Call 1/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alekseyevka
+Processing Record 2 of set 10: | biak, ID
+JSON Call 2/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=biak
+Processing Record 3 of set 10: | wilmington, US
+JSON Call 3/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=wilmington
+Processing Record 4 of set 10: | teknaf, BD
+JSON Call 4/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=teknaf
+Processing Record 5 of set 10: | pacific grove, US
+JSON Call 5/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pacific grove
+Processing Record 6 of set 10: | tagbac, PH
+JSON Call 6/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tagbac
+Processing Record 7 of set 10: | xichang, CN
+JSON Call 7/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=xichang
+Processing Record 8 of set 10: | nabire, ID
+JSON Call 8/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nabire
+Processing Record 9 of set 10: | requena, ES
+JSON Call 9/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=requena
+Processing Record 10 of set 10: | tiksi, RU
+JSON Call 10/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tiksi
+Processing Record 11 of set 10: | mujiayingzi, CN
+JSON Call 11/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mujiayingzi
+Processing Record 12 of set 10: | ucluelet, CA
+JSON Call 12/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ucluelet
+Processing Record 13 of set 10: | isla mujeres, MX
+JSON Call 13/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=isla mujeres
+Processing Record 14 of set 10: | vasto, IT
+JSON Call 14/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vasto
+Error: City "dera din panah" not found
+Processing Record 15 of set 10: | dera din panah, IT
+JSON Call 15/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dera din panah
+Processing Record 16 of set 10: | mapiripan, CO
+JSON Call 16/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mapiripan
+Processing Record 17 of set 10: | louis trichardt, ZA
+JSON Call 17/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=louis trichardt
+Processing Record 18 of set 10: | alexandria, US
+JSON Call 18/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alexandria
+Processing Record 19 of set 10: | shieli, KZ
+JSON Call 19/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=shieli
+Processing Record 20 of set 10: | klichka, RU
+JSON Call 20/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=klichka
+Processing Record 21 of set 10: | sechura, PE
+JSON Call 21/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sechura
+Error: City "palasa" not found
+Processing Record 22 of set 10: | palasa, PE
+JSON Call 22/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=palasa
+Processing Record 23 of set 10: | cedar city, US
+JSON Call 23/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cedar city
+Processing Record 24 of set 10: | mogadishu, SO
+JSON Call 24/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mogadishu
+Processing Record 25 of set 10: | sistranda, NO
+JSON Call 25/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sistranda
+Processing Record 26 of set 10: | vrangel, RU
+JSON Call 26/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vrangel
+Processing Record 27 of set 10: | yatou, CM
+JSON Call 27/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yatou
+Processing Record 28 of set 10: | mae sai, MM
+JSON Call 28/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mae sai
+Processing Record 29 of set 10: | kaihua, CN
+JSON Call 29/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kaihua
+Processing Record 30 of set 10: | port-cartier, CA
+JSON Call 30/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=port-cartier
+Processing Record 31 of set 10: | hukuntsi, BW
+JSON Call 31/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hukuntsi
+Processing Record 32 of set 10: | sayansk, RU
+JSON Call 32/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sayansk
+Processing Record 33 of set 10: | nizhnevartovsk, RU
+JSON Call 33/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nizhnevartovsk
+Error: City "warqla" not found
+Processing Record 34 of set 10: | warqla, RU
+JSON Call 34/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=warqla
+Processing Record 35 of set 10: | vyshneve, UA
+JSON Call 35/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vyshneve
+Processing Record 36 of set 10: | alugan, PH
+JSON Call 36/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alugan
+Processing Record 37 of set 10: | ilhabela, BR
+JSON Call 37/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ilhabela
+Processing Record 38 of set 10: | san nicolas, HN
+JSON Call 38/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=san nicolas
+Processing Record 39 of set 10: | galle, US
+JSON Call 39/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=galle
+Error: City "kuche" not found
+Processing Record 40 of set 10: | kuche, US
+JSON Call 40/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kuche
+Processing Record 41 of set 10: | nogales, US
+JSON Call 41/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nogales
+Error: City "hihifo" not found
+Processing Record 42 of set 10: | hihifo, US
+JSON Call 42/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=hihifo
+Error: City "bardiyah" not found
+Processing Record 43 of set 10: | bardiyah, US
+JSON Call 43/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bardiyah
+Processing Record 44 of set 10: | sonoita, US
+JSON Call 44/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sonoita
+Processing Record 45 of set 10: | kumluca, TR
+JSON Call 45/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kumluca
+Processing Record 46 of set 10: | palampur, IN
+JSON Call 46/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=palampur
+Processing Record 47 of set 10: | ukiah, US
+JSON Call 47/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ukiah
+Processing Record 48 of set 10: | olinda, EC
+JSON Call 48/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=olinda
+Processing Record 49 of set 10: | mama, MX
+JSON Call 49/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mama
+Processing Record 50 of set 10: | gornopravdinsk, RU
+JSON Call 50/10 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=gornopravdinsk
+Processing Record 0 of set 11: | braniewo, PL
+JSON Call 0/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=braniewo
+Processing Record 1 of set 11: | rio gallegos, AR
+JSON Call 1/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rio gallegos
+Processing Record 2 of set 11: | tilichiki, RU
+JSON Call 2/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tilichiki
+Processing Record 3 of set 11: | penzance, GB
+JSON Call 3/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=penzance
+Processing Record 4 of set 11: | ocampo, PH
+JSON Call 4/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ocampo
+Processing Record 5 of set 11: | bemidji, US
+JSON Call 5/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bemidji
+Processing Record 6 of set 11: | husavik, CA
+JSON Call 6/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=husavik
+Processing Record 7 of set 11: | kirov, RU
+JSON Call 7/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kirov
+Processing Record 8 of set 11: | wagar, US
+JSON Call 8/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=wagar
+Processing Record 9 of set 11: | ahipara, NZ
+JSON Call 9/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ahipara
+Processing Record 10 of set 11: | galveston, US
+JSON Call 10/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=galveston
+Processing Record 11 of set 11: | kudahuvadhoo, MV
+JSON Call 11/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kudahuvadhoo
+Processing Record 12 of set 11: | opotiki, NZ
+JSON Call 12/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=opotiki
+Processing Record 13 of set 11: | quesnel, CA
+JSON Call 13/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=quesnel
+Processing Record 14 of set 11: | birao, CF
+JSON Call 14/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=birao
+Processing Record 15 of set 11: | itoman, JP
+JSON Call 15/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=itoman
+Processing Record 16 of set 11: | borgo san dalmazzo, IT
+JSON Call 16/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=borgo san dalmazzo
+Processing Record 17 of set 11: | brewster, US
+JSON Call 17/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=brewster
+Processing Record 18 of set 11: | curup, ID
+JSON Call 18/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=curup
+Processing Record 19 of set 11: | atar, MR
+JSON Call 19/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=atar
+Processing Record 20 of set 11: | savalia, GR
+JSON Call 20/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=savalia
+Error: City "tukrah" not found
+Processing Record 21 of set 11: | tukrah, GR
+JSON Call 21/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tukrah
+Processing Record 22 of set 11: | pevek, RU
+JSON Call 22/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pevek
+Processing Record 23 of set 11: | ornskoldsvik, SE
+JSON Call 23/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ornskoldsvik
+Processing Record 24 of set 11: | guarapari, BR
+JSON Call 24/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=guarapari
+Processing Record 25 of set 11: | pangnirtung, CA
+JSON Call 25/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pangnirtung
+Processing Record 26 of set 11: | tabuk, PH
+JSON Call 26/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tabuk
+Processing Record 27 of set 11: | bolshoy lug, RU
+JSON Call 27/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bolshoy lug
+Processing Record 28 of set 11: | la sarre, CA
+JSON Call 28/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=la sarre
+Processing Record 29 of set 11: | manicore, BR
+JSON Call 29/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=manicore
+Processing Record 30 of set 11: | killybegs, IE
+JSON Call 30/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=killybegs
+Processing Record 31 of set 11: | ramhormoz, IR
+JSON Call 31/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ramhormoz
+Processing Record 32 of set 11: | aksu, KZ
+JSON Call 32/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=aksu
+Processing Record 33 of set 11: | rumphi, MW
+JSON Call 33/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rumphi
+Error: City "makung" not found
+Processing Record 34 of set 11: | makung, MW
+JSON Call 34/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=makung
+Processing Record 35 of set 11: | araouane, ML
+JSON Call 35/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=araouane
+Processing Record 36 of set 11: | south sioux city, US
+JSON Call 36/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=south sioux city
+Processing Record 37 of set 11: | minab, IR
+JSON Call 37/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=minab
+Error: City "yirol" not found
+Processing Record 38 of set 11: | yirol, IR
+JSON Call 38/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=yirol
+Processing Record 39 of set 11: | palmer, US
+JSON Call 39/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=palmer
+Error: City "meyungs" not found
+Processing Record 40 of set 11: | meyungs, US
+JSON Call 40/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=meyungs
+Error: City "longlac" not found
+Processing Record 41 of set 11: | longlac, US
+JSON Call 41/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=longlac
+Processing Record 42 of set 11: | assiniboia, CA
+JSON Call 42/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=assiniboia
+Processing Record 43 of set 11: | kangaba, ML
+JSON Call 43/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kangaba
+Processing Record 44 of set 11: | lahaina, US
+JSON Call 44/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lahaina
+Processing Record 45 of set 11: | saint-joseph, FR
+JSON Call 45/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=saint-joseph
+Processing Record 46 of set 11: | paralia, GR
+JSON Call 46/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=paralia
+Processing Record 47 of set 11: | kirillov, RU
+JSON Call 47/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kirillov
+Processing Record 48 of set 11: | mustvee, EE
+JSON Call 48/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mustvee
+Processing Record 49 of set 11: | sabang, PH
+JSON Call 49/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sabang
+Processing Record 50 of set 11: | linxia, CN
+JSON Call 50/11 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=linxia
+Processing Record 0 of set 12: | rodez, FR
+JSON Call 0/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=rodez
+Processing Record 1 of set 12: | ulagan, RU
+JSON Call 1/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ulagan
+Processing Record 2 of set 12: | bilma, NE
+JSON Call 2/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bilma
+Error: City "dalinghe" not found
+Processing Record 3 of set 12: | dalinghe, NE
+JSON Call 3/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dalinghe
+Processing Record 4 of set 12: | taksimo, RU
+JSON Call 4/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=taksimo
+Processing Record 5 of set 12: | kyren, RU
+JSON Call 5/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kyren
+Processing Record 6 of set 12: | sao joao da barra, BR
+JSON Call 6/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sao joao da barra
+Processing Record 7 of set 12: | zhezkazgan, KZ
+JSON Call 7/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=zhezkazgan
+Processing Record 8 of set 12: | palu, ID
+JSON Call 8/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=palu
+Processing Record 9 of set 12: | honiara, SB
+JSON Call 9/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=honiara
+Error: City "ust-kamchatsk" not found
+Processing Record 10 of set 12: | ust-kamchatsk, SB
+JSON Call 10/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=ust-kamchatsk
+Processing Record 11 of set 12: | lawrence, US
+JSON Call 11/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lawrence
+Processing Record 12 of set 12: | jalu, LY
+JSON Call 12/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=jalu
+Processing Record 13 of set 12: | dzhebariki-khaya, RU
+JSON Call 13/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=dzhebariki-khaya
+Processing Record 14 of set 12: | tiarei, PF
+JSON Call 14/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=tiarei
+Processing Record 15 of set 12: | potiskum, NG
+JSON Call 15/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=potiskum
+Processing Record 16 of set 12: | labuhan, ID
+JSON Call 16/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=labuhan
+Processing Record 17 of set 12: | marawi, PH
+JSON Call 17/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=marawi
+Processing Record 18 of set 12: | lake charles, US
+JSON Call 18/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=lake charles
+Processing Record 19 of set 12: | mackay, CA
+JSON Call 19/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mackay
+Processing Record 20 of set 12: | plettenberg bay, ZA
+JSON Call 20/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=plettenberg bay
+Processing Record 21 of set 12: | san ignacio, CL
+JSON Call 21/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=san ignacio
+Processing Record 22 of set 12: | karibib, NA
+JSON Call 22/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=karibib
+Processing Record 23 of set 12: | nelson bay, AU
+JSON Call 23/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=nelson bay
+Processing Record 24 of set 12: | magadi, IN
+JSON Call 24/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=magadi
+Processing Record 25 of set 12: | griffith, AU
+JSON Call 25/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=griffith
+Processing Record 26 of set 12: | cairns, AU
+JSON Call 26/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=cairns
+Processing Record 27 of set 12: | upata, VE
+JSON Call 27/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=upata
+Processing Record 28 of set 12: | sainte-marie, CA
+JSON Call 28/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=sainte-marie
+Processing Record 29 of set 12: | otterup, DK
+JSON Call 29/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=otterup
+Processing Record 30 of set 12: | kumylzhenskaya, RU
+JSON Call 30/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kumylzhenskaya
+Processing Record 31 of set 12: | basavakalyan, IN
+JSON Call 31/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=basavakalyan
+Processing Record 32 of set 12: | pyinmana, MM
+JSON Call 32/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pyinmana
+Processing Record 33 of set 12: | campos belos, BR
+JSON Call 33/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=campos belos
+Processing Record 34 of set 12: | marsa matruh, EG
+JSON Call 34/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=marsa matruh
+Processing Record 35 of set 12: | marinette, US
+JSON Call 35/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=marinette
+Processing Record 36 of set 12: | bambanglipuro, ID
+JSON Call 36/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bambanglipuro
+Processing Record 37 of set 12: | chushan, CN
+JSON Call 37/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=chushan
+Error: City "vaxjo" not found
+Processing Record 38 of set 12: | vaxjo, CN
+JSON Call 38/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=vaxjo
+Processing Record 39 of set 12: | kurumkan, RU
+JSON Call 39/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kurumkan
+Processing Record 40 of set 12: | shubarshi, KZ
+JSON Call 40/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=shubarshi
+Processing Record 41 of set 12: | kanakapura, IN
+JSON Call 41/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kanakapura
+Processing Record 42 of set 12: | zeya, RU
+JSON Call 42/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=zeya
+Processing Record 43 of set 12: | constitucion, MX
+JSON Call 43/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=constitucion
+Processing Record 44 of set 12: | roberval, CA
+JSON Call 44/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=roberval
+Processing Record 45 of set 12: | maholi, IN
+JSON Call 45/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=maholi
+Processing Record 46 of set 12: | caraquet, CA
+JSON Call 46/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=caraquet
+Processing Record 47 of set 12: | warmbad, DE
+JSON Call 47/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=warmbad
+Processing Record 48 of set 12: | alta floresta, BR
+JSON Call 48/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=alta floresta
+Processing Record 49 of set 12: | karratha, AU
+JSON Call 49/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=karratha
+Processing Record 50 of set 12: | bull savanna, JM
+JSON Call 50/12 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bull savanna
+Processing Record 0 of set 13: | kon tum, VN
+JSON Call 0/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=kon tum
+Processing Record 1 of set 13: | svetlaya, RU
+JSON Call 1/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=svetlaya
+Processing Record 2 of set 13: | gladstone, AU
+JSON Call 2/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=gladstone
+Processing Record 3 of set 13: | labuan, BN
+JSON Call 3/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=labuan
+Processing Record 4 of set 13: | itaueira, BR
+JSON Call 4/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=itaueira
+Processing Record 5 of set 13: | khadzhalmakhi, RU
+JSON Call 5/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=khadzhalmakhi
+Processing Record 6 of set 13: | jumla, NP
+JSON Call 6/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=jumla
+Processing Record 7 of set 13: | pochutla, MX
+JSON Call 7/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=pochutla
+Processing Record 8 of set 13: | maryborough, AU
+JSON Call 8/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=maryborough
+Processing Record 9 of set 13: | klaksvik, FO
+JSON Call 9/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=klaksvik
+Error: City "mutsamudu" not found
+Processing Record 10 of set 13: | mutsamudu, FO
+JSON Call 10/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=mutsamudu
+Processing Record 11 of set 13: | paranavai, BR
+JSON Call 11/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=paranavai
+Processing Record 12 of set 13: | bestobe, KZ
+JSON Call 12/13 made to: http://api.openweathermap.org/data/2.5/weather?appid=MYAPIKEYNUMBER&units=imperial&speed=imperial&q=bestobe
